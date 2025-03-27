@@ -23,3 +23,6 @@ def ChiaraFunction():
 
 def AleBosiFunction():
     print("AleBosiFunction")
+
+def LeopoldoFunction():
+    print("LeopoldoFunction")
